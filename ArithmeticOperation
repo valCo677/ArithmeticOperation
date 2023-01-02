@@ -1,0 +1,22 @@
+public class Main {
+    public static void main( String[] args ) {
+        int num1 = 20, num2 = 10, mult = 0,div = 0 ,sum = 0,sub = 0;
+
+        System.out.println ( "num 1 =  " + num1 );
+        System.out.println ( "num 2 =  " + num2 );
+        mult = num1 * num2;
+        div = num1/num2;
+        sum = num1+num2;
+        sub = num1-num2;
+        System.out.println ( "Multiplication = " + mult );
+        System.out.println ( "Division = " + div );
+        System.out.println ( "Summary = " + sum );
+        System.out.println ( "Subtraction = " + sub );
+    }
+}
+
+
+
+
+
+
